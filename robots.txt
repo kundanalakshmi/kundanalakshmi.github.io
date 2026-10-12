@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kundanalakshmi.github.io/sitemap.xml
